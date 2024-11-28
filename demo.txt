@@ -1,2 +1,1 @@
 name = NeoTechnology
-country = India
